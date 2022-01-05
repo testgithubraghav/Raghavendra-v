@@ -1,0 +1,107 @@
+.heading h3{
+float: left;
+padding-left: 100px;
+
+}
+.heading p{
+	float: right;
+	padding-right: 100px;
+}
+.heading{
+	background-color: red;
+	width: 1210px;
+	height: 50px;
+	color: white;
+}
+.bravo1{
+	background-image: url('https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGZ1cm5pdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+	background-repeat: no-repeat,repeat;
+	height: 150px;
+	padding-top: 150px;
+	text-align: center;
+	background-size: cover;
+	font-size: 30px;
+	color: black ;
+
+}
+.bravo2{
+	text-align: center;
+}
+.bravo2 p{
+	margin: 20px;
+}
+.bravo2 button{
+	background-color: blue;
+	color: white;
+	padding: 10px;
+}
+.p1{
+	background-color: blue;
+	color: white;
+	border: 1px solid red;
+	width: 280px;
+	text-align: center;
+	
+}
+.bravo3 p{
+	width: 280px;
+	background-color: ghostwhite;
+	border: 1px solid whitesmoke;
+
+
+}
+.bravo3 h5{
+	padding-left: 150px;
+}
+
+.bravo4 p{
+	width: 280px;
+	background-color: ghostwhite;
+	border: 1px solid whitesmoke;
+
+
+}
+.bravo4 h5{
+	padding-left: 150px;
+}
+.bravo5 p{
+	width: 280px;
+	background-color: ghostwhite;
+	border: 1px solid whitesmoke;
+
+
+}
+.bravo5 h5{
+	padding-left: 150px;
+}
+.bravo6 p{
+	width: 280px;
+	background-color: ghostwhite;
+	border: 1px solid whitesmoke;
+
+
+}
+.bravo6 h5{
+	padding-left: 150px;
+}
+
+.wrapper{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+.heading2 h3{
+float: left;
+padding-left: 100px;
+
+}
+.heading2 p{
+	float: right;
+	padding-right: 100px;
+}
+.heading2{
+	background-color: red;
+	width: 1210px;
+	height: 50px;
+	color: white;
+}
